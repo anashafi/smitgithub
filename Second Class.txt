@@ -1,0 +1,6 @@
+SMIT Python
+
+Second Class : Data Types
+
+Ctrl + Shift + H ((Help Command))
+

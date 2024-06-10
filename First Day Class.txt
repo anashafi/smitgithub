@@ -1,0 +1,42 @@
+Open command Prompt
+
+cmd: conda --version
+
+>python --version
+
+Steps for Enviornment Making
+
+>conda create --name python-env912
+
+-------------------
+
+>conda activate pyhton-env912
+
+------------
+
+>coonda env list
+
+-----------
+
+CLI Command Line
+
+>>> print("Hello World..")
+
+>>> exit ()
+
+>>> 
+
+
+Jupytor Notebook 
+
+Extension: by default extensin of jupyter -> '.ipynb'
+
+1. ESC + A (
+2. ESC + B (
+3. ESC +DD (
+
+WEbsite for Command : Ctrl + Shift + H
+
+For compile: Shift + ENter
+
+
